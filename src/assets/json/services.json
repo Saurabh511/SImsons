@@ -1,0 +1,237 @@
+{
+    "Services": [
+        {
+            "src": "/Birthday/Image3.png",
+            "title": "Wedding Decor",
+            "description": "Your Dream Wedding, Perfectly Planned",
+            "redirectTo": "/event/weddingdecor"
+        },
+        {
+            "src": "/Weddings/Image2.png",
+            "title": "Dj Service",
+            "description": "Begin Forever with Style",
+            "redirectTo": "/event/djservice"
+        },
+        {
+            "src": "/Birthday/Image12.png",
+            "title": "Photography",
+            "description": "Celebrating Your Love Story",
+            "redirectTo": "/event/photography"
+        },
+        {
+            "src": "/Birthday/Image8.png",
+            "title": "Makeup Artist",
+            "description": "Professional Events, Seamlessly Executed",
+            "redirectTo": "/event/makeupartist"
+        },
+        {
+            "src": "/Birthday/Image2.png",
+            "title": "Fashion",
+            "description": "A Grand Welcome for Your Little One",
+            "redirectTo": "/event/fashion"
+        },
+        {
+            "src": "/Birthday/Image11.png",
+            "title": "Venue Consultation",
+            "description": "Opening Doors to New Beginnings",
+            "redirectTo": "/event/venueconsultation"
+        },
+        {
+            "src": "/Birthday/Image12.png",
+            "title": "Emcee",
+            "description": "Celebrate Freedom in Style",
+            "redirectTo": "/event/emcee"
+        },
+        {
+            "src": "/Birthday/Image4.png",
+            "title": "Other Occasions",
+            "description": "Bringing Festive Magic to Your Space",
+            "redirectTo": "/event/otheroccasions"
+        }
+    ],
+    "Trending_Design": {
+        "wed18Img": "/Weddings/Image5.png",
+        "wed12Img": "/Birthday/Image1.png",
+        "wed17Img": "/Weddings/Image4.png",
+        "wed21Img": "/Get%20a%20glimpse/Image4.png"
+    },
+    "Additional": [
+        {
+            "src": "/Birthday/Image2.png",
+            "label": "Special Effects",
+            "price": "₹500"
+        },
+        {
+            "src": "/Birthday/Image11.png",
+            "label": "Furnitures",
+            "price": "₹500"
+        },
+        {
+            "src": "/Birthday/Image12.png",
+            "label": "Welcome Decor",
+            "price": "₹500"
+        },
+        {
+            "src": "/Birthday/Image3.png",
+            "label": "Accents Decor",
+            "price": "₹500"
+        },
+        {
+            "src": "/Birthday/Image4.png",
+            "label": "Traditional Decor",
+            "price": "₹500"
+        },
+        {
+            "src": "/Birthday/Image5.png",
+            "label": "Platforms and Basic",
+            "price": "₹500"
+        },
+        {
+            "src": "/Birthday/Image6.png",
+            "label": "Lightning",
+            "price": "₹500"
+        },
+        {
+            "src": "/Birthday/Image7.png",
+            "label": "Sound system",
+            "price": "₹500"
+        },
+        {
+            "src": "/Birthday/Image8.png",
+            "label": "Tent / Canopy",
+            "price": "₹500"
+        },
+        {
+            "src": "/Birthday/Image8.png",
+            "label": "Logistics",
+            "price": "₹500"
+        },
+        {
+            "src": "/Birthday/Image8.png",
+            "label": "Guest Hospitality",
+            "price": "₹500"
+        }
+    ],
+    "Products" : [
+        {
+            "id":1,
+            "image": "/Birthday/Image2.png",
+            "review": {
+                "rating": 4.2,
+                "total_reviews": 56
+            },
+            "name": "Confetti",
+            "price": "500"
+        },
+        {
+            "id":2,
+            "image": "/Birthday/Image2.png",
+            "review": {
+                "rating": 4.2,
+                "total_reviews": 56
+            },
+            "name": "Steamers",
+            "price": "500"
+        },
+        {   
+            "id":3,
+            "image": "/Birthday/Image2.png",
+            "review": {
+                "rating": 4.2,
+                "total_reviews": 56
+            },
+            "name": "Balloon Design",
+            "price": "500"
+        },
+        {   
+            "id":4,
+            "image": "/Birthday/Image2.png",
+            "review": {
+                "rating": 4.2,
+                "total_reviews": 56
+            },
+            "name": "Garlands",
+            "price": "500"
+        },
+        {
+            "id":5,
+            "image": "/Birthday/Image2.png",
+            "review": {
+                "rating": 4.2,
+                "total_reviews": 56
+            },
+            "name": "Cake Toppers",
+            "price": "500"
+        },
+        {
+            "id":6,
+            "image": "/Birthday/Image2.png",
+            "review": {
+                "rating": 4.2,
+                "total_reviews": 56
+            },
+            "name": "Party Favors",
+            "price": "500"
+        },
+        {
+            "id":7,
+            "image": "/Birthday/Image2.png",
+            "review": {
+                "rating": 4.2,
+                "total_reviews": 56
+            },
+            "name": "Tablecloths",
+            "price": "500"
+        },
+        {
+            "id":8,
+            "image": "/Birthday/Image2.png",
+            "review": {
+                "rating": 4.2,
+                "total_reviews": 56
+            },
+            "name": "Ribbons",
+            "price": "500"
+        },
+        {
+            "id":8,
+            "image": "/Birthday/Image2.png",
+            "review": {
+                "rating": 4.2,
+                "total_reviews": 56
+            },
+            "name": "Fairy Lights",
+            "price": "500"
+        },
+        {
+            "id":9,
+            "image": "/Birthday/Image2.png",
+            "review": {
+                "rating": 4.2,
+                "total_reviews": 56
+            },
+            "name": "Chair Covers",
+            "price": "500"
+        },
+        {
+            "id":10,
+            "image": "/Birthday/Image2.png",
+            "review": {
+                "rating": 4.2,
+                "total_reviews": 56
+            },
+            "name": "Hanging Swirl",
+            "price": "500"
+        },
+        {
+            "id":11,
+            "image": "/Birthday/Image2.png",
+            "review": {
+                "rating": 4.2,
+                "total_reviews": 56
+            },
+            "name": "Table Runners",
+            "price": "500"
+        }
+    ]
+}
