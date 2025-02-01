@@ -78,7 +78,7 @@ const Header = () => {
   const occasionItems = [
     'Birthday Parties',
     'Anniversaries',
-    'Welcome Baby Celebrations',
+   // 'Welcome Baby Celebrations',
     'Baby Showers',
     'Housewarming',
     'Inauguration Ceremonies',
